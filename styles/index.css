@@ -8,3 +8,13 @@
   font-style: normal;
 }
 /* CUSTOM FONT-FAMILY STYLES END */
+
+/* SHARED STYLES START */
+.text-color-primary {
+  color: #1c1c1c;
+}
+
+.text-color-secondary {
+  color: #777777;
+}
+/* SHARED STYLES END */
